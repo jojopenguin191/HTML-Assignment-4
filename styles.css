@@ -1,1 +1,36 @@
-/* Write your CSS here! */
+head {
+    margin: auto;
+}
+#mainHeading {
+    color: red;
+}
+body {
+    margin: 8px;
+    display: block;
+    background-color: Thistle;
+}
+header {
+    width: 320px;
+    padding: 25px;
+    margin: auto;
+    font-family: "Garamond", serif;
+    font-size: large;
+}
+h2 {
+    width: 300px;
+    margin: 25px;
+    text-decoration: underline;
+
+}
+p {
+    text-align: left;
+    margin: 25px;
+  }
+p.funParagraph {
+    color: green;
+}
+img {
+    width: 300px;
+    height: 300px;
+    object-fit: scale down;
+}
